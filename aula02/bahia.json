@@ -1,0 +1,42 @@
+[
+  {
+    "id": "4099",
+    "variavel": "Taxa de desocupação, na semana de referência, das pessoas de 14 anos ou mais de idade",
+    "unidade": "%",
+    "resultados": [
+      {
+        "classificacoes": [
+          {
+            "id": "2",
+            "nome": "Sexo",
+            "categoria": {
+              "5": "Mulheres"
+            }
+          }
+        ],
+        "series": [
+          {
+            "localidade": {
+              "id": "29",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Bahia"
+            },
+            "serie": {
+              "201201": "15.7",
+              "201202": "14.3",
+              "201203": "13.8",
+              "201204": "12.6",
+              "201301": "17.0",
+              "201302": "15.2",
+              "201303": "13.6",
+              "201304": "11.2"
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

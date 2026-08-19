@@ -1,0 +1,42 @@
+[
+  {
+    "id": "4099",
+    "variavel": "Taxa de desocupação, na semana de referência, das pessoas de 14 anos ou mais de idade",
+    "unidade": "%",
+    "resultados": [
+      {
+        "classificacoes": [
+          {
+            "id": "2",
+            "nome": "Sexo",
+            "categoria": {
+              "5": "Mulheres"
+            }
+          }
+        ],
+        "series": [
+          {
+            "localidade": {
+              "id": "26",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Pernambuco"
+            },
+            "serie": {
+              "201201": "13.1",
+              "201202": "11.0",
+              "201203": "11.8",
+              "201204": "11.1",
+              "201301": "14.2",
+              "201302": "11.7",
+              "201303": "11.2",
+              "201304": "9.3"
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
